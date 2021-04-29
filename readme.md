@@ -1,4 +1,9 @@
-# Welcome to Introduction to App Developemnt using Flutter and You will find all your starter files here.
-## File will be uploaded accordingly to course time and you will have small excercises to improve you knowledge.
-Bleh bleh bleh bleh
-bleh bleh bel 2 addiont 2
+# Welcome to Flutter Introductory Course conducted by the Open Source Club - Saintgits College of Engineering
+## This Repository will introduce to programming with Dart by showing
+
+If you have installed Flutter then Dart SDK will also be installed.  
+  
+To run dart program goto the folder where the code is stored then run  
+    * 'dart run filename.dart' *  
+  
+Make sure you have a main function as the main function will be the first to get executed.  
