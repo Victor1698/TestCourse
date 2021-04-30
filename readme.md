@@ -1,7 +1,7 @@
-# Welcome to Flutter Introduction to App Developement Course conducted by the Open Source Club - Saintgits College of Engineering
+# Welcome to Flutter Introduction to App Developement Course conducted by the Open Source Club - Saintgits College of Engineering asdas asdsfdasf
   
 ## Introduction to Dart Programming Language
-This Repository will introduce you to programming with Dart landguage by showing some of the basic concepts of the language. You can fork this repository to your github account and start coding. 
+This Repository will introduce you to programming with Dart landguage by showing some of the basic concepts of the language. You can fork this repository to your github account and start coding. ss
   
 Questions will be present in each folder and you can start coding. 
 Once the session on Dart is finished the completed version will updated in a separate branch you can refer to.  
